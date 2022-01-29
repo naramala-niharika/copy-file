@@ -29,9 +29,9 @@ with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
         secondfile.write(line)
 ```
 ### OUTPUT:
-![output](https://github.com/Shaik-sameer-AIML/copy-file/blob/main/copy%203.JPG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/copy-file/blob/main/copy%201.JPG?raw=true)
-![output](https://github.com/Shaik-sameer-AIML/copy-file/blob/main/copy2.JPG?raw=true)
+![output]
+![output]
+![output]
 
 
 ## RESULT:
