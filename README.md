@@ -29,9 +29,9 @@ with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
         secondfile.write(line)
 ```
 ### OUTPUT:
-![output]
-![output]
-![output]
+![output](https://github.com/naramala-niharika/copy-file/blob/main/Screenshot%20(94).png?raw=true)
+![output](https://github.com/naramala-niharika/copy-file/blob/main/Screenshot%20(95).png?raw=true)
+![output](https://github.com/naramala-niharika/copy-file/blob/main/Screenshot%20(96).png?raw=true)
 
 
 ## RESULT:
